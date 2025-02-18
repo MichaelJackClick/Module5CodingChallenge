@@ -1,0 +1,15 @@
+/workspaces/Module5CodingChallenge/Module5CodingChallenge/bin/Debug/net8.0/Module5CodingChallenge
+/workspaces/Module5CodingChallenge/Module5CodingChallenge/bin/Debug/net8.0/Module5CodingChallenge.deps.json
+/workspaces/Module5CodingChallenge/Module5CodingChallenge/bin/Debug/net8.0/Module5CodingChallenge.runtimeconfig.json
+/workspaces/Module5CodingChallenge/Module5CodingChallenge/bin/Debug/net8.0/Module5CodingChallenge.dll
+/workspaces/Module5CodingChallenge/Module5CodingChallenge/bin/Debug/net8.0/Module5CodingChallenge.pdb
+/workspaces/Module5CodingChallenge/Module5CodingChallenge/obj/Debug/net8.0/Module5CodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module5CodingChallenge/Module5CodingChallenge/obj/Debug/net8.0/Module5CodingChallenge.AssemblyInfoInputs.cache
+/workspaces/Module5CodingChallenge/Module5CodingChallenge/obj/Debug/net8.0/Module5CodingChallenge.AssemblyInfo.cs
+/workspaces/Module5CodingChallenge/Module5CodingChallenge/obj/Debug/net8.0/Module5CodingChallenge.csproj.CoreCompileInputs.cache
+/workspaces/Module5CodingChallenge/Module5CodingChallenge/obj/Debug/net8.0/Module5CodingChallenge.sourcelink.json
+/workspaces/Module5CodingChallenge/Module5CodingChallenge/obj/Debug/net8.0/Module5CodingChallenge.dll
+/workspaces/Module5CodingChallenge/Module5CodingChallenge/obj/Debug/net8.0/refint/Module5CodingChallenge.dll
+/workspaces/Module5CodingChallenge/Module5CodingChallenge/obj/Debug/net8.0/Module5CodingChallenge.pdb
+/workspaces/Module5CodingChallenge/Module5CodingChallenge/obj/Debug/net8.0/Module5CodingChallenge.genruntimeconfig.cache
+/workspaces/Module5CodingChallenge/Module5CodingChallenge/obj/Debug/net8.0/ref/Module5CodingChallenge.dll
