@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Author: Jack Click
+//02/22/2025
+using System;
 using System.Collections.Generic;
 
 // Base Book Class (Encapsulation & Abstraction)
